@@ -15,16 +15,16 @@ const Header = () =>  (
       </Link>
     </Div1>
     <Div2>
+    <li>
+        <Link href="#tech">
+          <NavLink>About Me</NavLink>
+        </Link>
+      </li>        
       <li>
         <Link href="#projects">
           <NavLink>Projects</NavLink>
         </Link>
-      </li>
-      <li>
-        <Link href="#tech">
-          <NavLink>Technologies</NavLink>
-        </Link>
-      </li>        
+      </li>     
       <li>
         <Link href="#about">
           <NavLink>About</NavLink>
