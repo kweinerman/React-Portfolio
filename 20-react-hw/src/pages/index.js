@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import Projects from '../components/Projects/Projects';
 import AboutMe from '../components/Projects/About Me/About';
 import Contact from '../components/Projects/Contact Me/contact';
