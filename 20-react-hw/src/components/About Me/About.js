@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './AboutStyles';
 
 const Technologies = () =>  (
-  <Section id="tech">
+  <Section id="about">
     <SectionDivider divider />
     <SectionTitle>About Me</SectionTitle>
     <SectionText>

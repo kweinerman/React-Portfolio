@@ -16,7 +16,7 @@ const Header = () =>  (
     </Div1>
     <Div2>
     <li>
-        <Link href="#tech">
+        <Link href="#about">
           <NavLink>About Me</NavLink>
         </Link>
       </li>        
@@ -26,8 +26,8 @@ const Header = () =>  (
         </Link>
       </li>     
       <li>
-        <Link href="#about">
-          <NavLink>About</NavLink>
+        <Link href="#contact">
+          <NavLink>Contact Me</NavLink>
         </Link>
       </li>        
     </Div2>
