@@ -1,8 +1,7 @@
 import Projects from '../components/Projects/Projects';
-import AboutMe from '../components/About Me/About';
-import Contact from '../components/Contact Me/contact';
+import AboutMe from '../components/Projects/About Me/About';
+import Contact from '../components/Projects/Contact Me/contact';
 import { Layout } from '../layout/Layout';
-import { Section } from '../styles/GlobalComponents';
 
 const Home = () => {
   return (
