@@ -2,7 +2,7 @@ import { IoIosArrowDropdown } from 'react-icons/io';
 import styled from 'styled-components';
 
 export const FormStyle = styled.form`
-  width: 100%;
+  width: 50%;
   .form-group {
     width: 100%;
     margin-bottom: 2rem;

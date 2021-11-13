@@ -1,10 +1,12 @@
 import React from 'react';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './AboutStyles';
+import { List, ListContainer, ListItem, ListParagraph, ListTitle, img } from './AboutStyles';
+
 
 const Technologies = () =>  (
-  <Section id="about">
+  <Section id="about" >
+    <img  src="/images/kurt.jpeg" height="100px" width="100px"/>
     <SectionDivider divider />
     <SectionTitle>About Me</SectionTitle>
     <SectionText>

@@ -23,6 +23,10 @@ export const ImageContainer = styled.div`
   }
 `
 
+export const img = styled.img`
+height: 300px`
+
+
 export const MainImage = styled.img`
   width: 100%;
 `
